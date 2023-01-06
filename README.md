@@ -1,6 +1,6 @@
 # Project Title
 
-In this project, a detailed analysis is done on e-commerce data, 
+In this project, a detailed analysis is undertken on e-commerce data, 
 to assess sales  trends, customer data, and revenue impacting trends.
 
 
